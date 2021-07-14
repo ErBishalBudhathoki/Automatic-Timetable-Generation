@@ -1,0 +1,704 @@
+[
+    "August",
+    2018,
+    "December",
+    2018,
+    "Computer Science & Engineering",
+    [
+        "faculty_class('', '', 'Assistant Professor')",
+        "faculty_class('Ajay H C', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Ajay N', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Ambika N', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Anisha P Rodrigues', 'Mrs.', 'Assistant Professor')",
+        "faculty_class('Anitha D Bayar', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Ankitha A Nayak', 'Ms.', 'Assistant Professor')",
+        "faculty_class(\"Apoorva D'Souza\", 'Ms.', 'Assistant Professor')",
+        "faculty_class('Apoorva S', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Archana N', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Asmitha Poojari', 'Mrs.', 'Assistant Professor')",
+        "faculty_class('Bhararthi M', 'Dr.', 'Associate Professor')",
+        "faculty_class('Chandra Naik', 'Mr.', 'Assistant Professor')",
+        "faculty_class('D K Sreekantha', 'Dr.', 'Assistant Professor')",
+        "faculty_class('DhanLaksmi', 'Mrs.', 'Assistant Professor')",
+        "faculty_class(\"Divya Jennifer D'Souza\", 'Mrs.', 'Assistant Professor')",
+        "faculty_class('Diwakar K M', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Girish B G', 'Prof.', 'Assistant Professor')",
+        "faculty_class('H R Manjunath Prasad', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Harshavardhan', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Humanities', '', 'Assistant Professor')",
+        "faculty_class('Jagadish N', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Jyothi Shetty', 'Mrs.', 'Assistant Professor')",
+        "faculty_class('K R Uday Kumar Reddy', 'Dr.', 'Assistant Professor')",
+        "faculty_class('Keerthana B C', 'Mrs.', 'Assistant Professor')",
+        "faculty_class('Krishna Prasad Rao', 'Mr.', 'Assistant Professor')",
+        "faculty_class('M. Seshaiah', 'Prof.', 'Assistant Professor')",
+        "faculty_class('MAHESH V', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Mahesh Kini', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Manjunath Prasad', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Manjunath S', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Minu P Abraham', 'Mrs.', 'Assistant Professor')",
+        "faculty_class('Mohammed Javed', 'Dr.', 'Assistant Professor')",
+        "faculty_class('Murthy S V N', 'Dr.', 'Associate Professor')",
+        "faculty_class('Narendra Babu C', 'Prof.', 'Professor')",
+        "faculty_class('Naveen Chandavarkar', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Pallavi K N', 'Mrs.', 'Assistant Professor')",
+        "faculty_class('Pampana', 'Prof.', 'Associate Professor')",
+        "faculty_class('Pawan Hegde', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Pradeep Kanchan', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Pradeep Kumar', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Pradeep Nazareth', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Puneeth R P', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Radhakrishna Dodmane', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Raghunandan K R', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Rajalaxmi Hegde', 'Mrs.', 'Assistant Professor')",
+        "faculty_class('Rajashree', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Raju K', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Rama Krishna', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Ramesha Shettigar', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Ranjan Kumar H S', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Rashmi K A', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Ravi B', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Roshan Fernandes', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Sampath Kini', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Sandeep Hegde', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Sannidhan M S', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Sarika Hegde', 'Mrs.', 'Assistant Professor')",
+        "faculty_class('Savitha Shetty', 'Mrs.', 'Assistant Professor')",
+        "faculty_class('Shabari Shedthi B', 'Mrs.', 'Assistant Professor')",
+        "faculty_class('Sharada Uday Shenoy', 'Mrs.', 'Assistant Professor')",
+        "faculty_class('Shashank Shetty', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Shashikanth T S', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Shashirekha B Rai', 'Dr.', 'Assistant Professor')",
+        "faculty_class('Shilpa M K', 'Mrs.', 'Assistant Professor')",
+        "faculty_class('Shrihari M R', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Smitha G V', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Sowmya A', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Srinath G M', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Srinivas Murthy H', 'Prof.', 'Associate Professor')",
+        "faculty_class('Sudeepa K B', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Sunil Kumar Aithal', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Sunil Nayak', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Sushmitha M', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Swathi Pai M', 'Ms.', 'Assistant Professor')",
+        "faculty_class('Swetha T', 'Prof.', 'Assistant Professor')",
+        "faculty_class('T.N Anitha', 'Dr.', 'Head of Department')",
+        "faculty_class('Uday Kumar Shenoy', 'Dr.', 'Assistant Professor')",
+        "faculty_class('Venkatesh K M', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Venugopala P S', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Vijay G R', 'Prof.', 'Associate Professor')",
+        "faculty_class('Vijay Murari T', 'Mr.', 'Assistant Professor')",
+        "faculty_class('Vikas Reddy.S', 'Prof.', 'Assistant Professor')",
+        "faculty_class('Vinutha K', 'Prof.', 'Assistant Professor')"
+    ],
+    {
+        "III": [
+            "subject('OOP', 'OOP', 4, False, '')",
+            "subject('Data Structures', 'DS', 4, False, '')",
+            "subject('DMS', 'DMS', 4, False, '')",
+            "subject('Digital System Design', 'DSD', 4, False, '')",
+            "subject('DS OOP Lab', 'DS|OOP Lab', 0, True, '')",
+            "subject('DSD Lab', 'DSD Lab', 0, True, '')",
+            "subject('Web programming', 'BWP', 4, False, '')",
+            "subject('GFTT', 'Maths', 0, False, '')"
+        ],
+        "IV": [
+            "subject('SWATCH BARAT', 'SWATCH BARAT', 0, False, '-')",
+            "subject('DAA', 'DAA', 5, False, '16cs62')",
+            "subject('Basic Mathematics-4', 'M4', 5, False, '16MT11')",
+            "subject('DC', 'DC', 5, False, '16cs67')",
+            "subject('MP&MC', 'MP&MC', 5, False, '16cs63')",
+            "subject('SE', 'SE', 5, False, '16cs61')",
+            "subject('OOC', 'OOC', 5, False, '16cs65')",
+            "subject('MP LAB|DAA LAB', 'MP|DAA LAB', 0, True, '10csl671/672')",
+            "subject('HRD', 'HRD', 0, False, '1')"
+        ],
+        "V": [
+            "subject('Software Engg', 'SE', 4, False, '')",
+            "subject('Operations Research', 'OR', 0, True, '')",
+            "subject('Microprocessors', 'MP', 4, False, '')",
+            "subject('Emp Skill Dev', 'ESD', 1, False, '')",
+            "subject('CD | RDBMS Lab', 'CD|RDBMS Lab', 0, True, '')",
+            "subject('Database', 'RDBMS', 4, False, '')",
+            "subject('Operating Systems', 'OS', 4, False, '')",
+            "subject('MP Lab', 'MP Lab', 0, True, '')",
+            "subject('Program Verification', 'PV', 0, False, '')",
+            "subject('Adv Unix Prog', 'AUP', 0, False, '')",
+            "subject('Compilers', 'CD', 4, False, '')"
+        ],
+        "VI": [
+            "subject('CG | SS&OS LAB', 'CG | SS&OS LAB', 0, True, '6')",
+            "subject('SWATCH BARAT', 'SWATCH BARAT', 0, False, '-')",
+            "subject('CNC', 'CNC', 5, False, '7')",
+            "subject('PAP', 'PAP', 0, False, '9')",
+            "subject('SS&CD', 'SS&CD', 5, False, '5')",
+            "subject('HRD', 'HRD', 0, False, '2')",
+            "subject('OR', 'OR', 5, False, '4')",
+            "subject('OS', 'OS', 5, False, '3')",
+            "subject('CGV', 'CGV', 5, False, '1')",
+            "subject('MC', 'MC', 0, False, '8')"
+        ],
+        "VII": [
+            "subject('OO Modeling and Design', 'OOMD', 4, False, '')",
+            "subject('Managing the Cloud', 'MC', 3, False, '')",
+            "subject('Adv Comp Arch', 'ACA', 4, False, '')",
+            "subject('Seminar', 'Seminar', 0, True, '')",
+            "subject('Social and Web Analytics', 'SWA', 2, False, '')",
+            "subject('Python', 'PP', 0, False, '')",
+            "subject('Cloud App Dev', 'CDA', 2, False, '')",
+            "subject('Virt and Cloud', 'CCV', 3, False, '')",
+            "subject('Sw Arch', 'SA', 4, False, '')",
+            "subject('Social and Web Analytics Lab', 'SWA Lab', 0, True, '')",
+            "subject('CDA Lab', 'CDA Lab', 0, True, '')"
+        ],
+        "VIII": [
+            "subject('NMS', 'NMS', 0, False, '18')",
+            "subject('ST', 'ST', 0, False, '17')",
+            "subject('TS', 'TS', 0, False, '14')",
+            "subject('PS', 'PS', 0, False, '13')",
+            "subject('INS', 'INS', 0, False, '19')",
+            "subject('CGC', 'CGC', 0, False, '16')",
+            "subject('SA', 'SA', 5, False, '11')",
+            "subject('SMS', 'SMS', 5, False, '12')"
+        ]
+    },
+    {
+        "III": 0,
+        "IV": 2,
+        "V": 0,
+        "VI": 2,
+        "VII": 0,
+        "VIII": 2
+    },
+    {
+        "III": [],
+        "IV": [
+            "A",
+            "B"
+        ],
+        "V": [],
+        "VI": [
+            "A",
+            "B"
+        ],
+        "VII": [],
+        "VIII": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "III": {},
+        "IV": {
+            "A": [
+                "DAA - DAA - Archana N",
+                "MP LAB|DAA LAB - MP|DAA LAB - Manjunath S, Shashikanth T S, Archana N, Harshavardhan",
+                "DC - DC - Vikas Reddy.S",
+                "Basic Mathematics-4 - M4 - MAHESH V",
+                "SE - SE - Narendra Babu C",
+                "MP&MC - MP&MC - Manjunath S",
+                "OOC - OOC - Rashmi K A",
+                "HRD - HRD - Sunil Nayak",
+                "SWATCH BARAT - SWATCH BARAT - Swetha T"
+            ],
+            "B": [
+                "OOC - OOC - Srinath G M",
+                "DAA - DAA - Jagadish N",
+                "MP LAB|DAA LAB - MP|DAA LAB - M. Seshaiah, Girish B G, Jagadish N",
+                "DC - DC - Murthy S V N",
+                "Basic Mathematics-4 - M4 - DhanLaksmi",
+                "SE - SE - Diwakar K M",
+                "MP&MC - MP&MC - M. Seshaiah",
+                "HRD - HRD - Sunil Nayak",
+                "SWATCH BARAT - SWATCH BARAT - Swetha T"
+            ]
+        },
+        "V": {},
+        "VI": {
+            "A": [
+                "CNC - CNC - Harshavardhan",
+                "CGV - CGV - Sushmitha M",
+                "MC - MC - Rashmi K A",
+                "PAP - PAP - Shashikanth T S",
+                "OR - OR - Girish B G",
+                "SS&CD - SS&CD - Shrihari M R",
+                "OS - OS - Bhararthi M",
+                "CG | SS&OS LAB - CG | SS&OS LAB - Sushmitha M, Shrihari M R",
+                "HRD - HRD - Sunil Nayak",
+                "SWATCH BARAT - SWATCH BARAT - Vinutha K"
+            ],
+            "B": [
+                "CNC - CNC - Apoorva S",
+                "CGV - CGV - Srinath G M",
+                "PAP - PAP - Shashikanth T S",
+                "OR - OR - Vinutha K",
+                "SS&CD - SS&CD - Ajay N",
+                "OS - OS - Diwakar K M",
+                "CG | SS&OS LAB - CG | SS&OS LAB - Srinath G M, Ajay N",
+                "HRD - HRD - Sunil Nayak",
+                "SWATCH BARAT - SWATCH BARAT - Vinutha K"
+            ]
+        },
+        "VII": {},
+        "VIII": {
+            "A": [
+                "SA - SA - Apoorva S",
+                "SMS - SMS - Bhararthi M",
+                "PS - PS - Ajay N",
+                "TS - TS - Srinath G M",
+                "CGC - CGC - Vinutha K",
+                "ST - ST - Ajay H C",
+                "INS - INS - Harshavardhan",
+                "NMS - NMS - Venkatesh K M"
+            ],
+            "B": [
+                "ST - ST - Ajay H C",
+                "INS - INS - Rashmi K A",
+                "SA - SA - Jagadish N",
+                "SMS - SMS - Srinivas Murthy H",
+                "CGC - CGC - Sushmitha M",
+                "NMS - NMS - Venkatesh K M",
+                "TS - TS - Srinath G M",
+                "PS - PS - Ajay N"
+            ]
+        }
+    },
+    {
+        "Ajay H C": [
+            "ST - ST - VIII A",
+            "ST - ST - VIII B"
+        ],
+        "Ajay N": [
+            "PS - PS - VIII A",
+            "PS - PS - VIII B",
+            "SS&CD - SS&CD - VI B",
+            "CG | SS&OS LAB - CG | SS&OS LAB - VI B"
+        ],
+        "Apoorva S": [
+            "SA - SA - VIII A",
+            "CNC - CNC - VI B"
+        ],
+        "Archana N": [
+            "DAA - DAA - IV A",
+            "MP LAB|DAA LAB - MP|DAA LAB - IV A"
+        ],
+        "Bhararthi M": [
+            "SMS - SMS - VIII A",
+            "OS - OS - VI A"
+        ],
+        "Diwakar K M": [
+            "OS - OS - VI B",
+            "SE - SE - IV B"
+        ],
+        "Girish B G": [
+            "OR - OR - VI A",
+            "MP LAB|DAA LAB - MP|DAA LAB - IV B"
+        ],
+        "Harshavardhan": [
+            "INS - INS - VIII A",
+            "CNC - CNC - VI A",
+            "MP LAB|DAA LAB - MP|DAA LAB - IV A"
+        ],
+        "Jagadish N": [
+            "SA - SA - VIII B",
+            "DAA - DAA - IV B",
+            "MP LAB|DAA LAB - MP|DAA LAB - IV B"
+        ],
+        "M. Seshaiah": [
+            "MP LAB|DAA LAB - MP|DAA LAB - IV B",
+            "MP&MC - MP&MC - IV B"
+        ],
+        "Manjunath S": [
+            "MP LAB|DAA LAB - MP|DAA LAB - IV A",
+            "MP&MC - MP&MC - IV A"
+        ],
+        "Murthy S V N": [
+            "DC - DC - IV B"
+        ],
+        "Narendra Babu C": [
+            "SE - SE - IV A"
+        ],
+        "Pampana": [],
+        "Pradeep Kumar": [],
+        "Rashmi K A": [
+            "INS - INS - VIII B",
+            "MC - MC - VI A",
+            "OOC - OOC - IV A"
+        ],
+        "Shashikanth T S": [
+            "PAP - PAP - VI A",
+            "PAP - PAP - VI B",
+            "MP LAB|DAA LAB - MP|DAA LAB - IV A"
+        ],
+        "Shrihari M R": [
+            "SS&CD - SS&CD - VI A",
+            "CG | SS&OS LAB - CG | SS&OS LAB - VI A"
+        ],
+        "Srinath G M": [
+            "TS - TS - VIII A",
+            "TS - TS - VIII B",
+            "CGV - CGV - VI B",
+            "CG | SS&OS LAB - CG | SS&OS LAB - VI B",
+            "OOC - OOC - IV B"
+        ],
+        "Srinivas Murthy H": [
+            "SMS - SMS - VIII B"
+        ],
+        "Sushmitha M": [
+            "CGC - CGC - VIII B",
+            "CGV - CGV - VI A",
+            "CG | SS&OS LAB - CG | SS&OS LAB - VI A"
+        ],
+        "Swetha T": [
+            "SWATCH BARAT - SWATCH BARAT - IV A",
+            "SWATCH BARAT - SWATCH BARAT - IV B"
+        ],
+        "T.N Anitha": [],
+        "Venkatesh K M": [
+            "NMS - NMS - VIII A",
+            "NMS - NMS - VIII B"
+        ],
+        "Vijay G R": [],
+        "Vikas Reddy.S": [
+            "DC - DC - IV A"
+        ],
+        "Vinutha K": [
+            "CGC - CGC - VIII A",
+            "OR - OR - VI B",
+            "SWATCH BARAT - SWATCH BARAT - VI A",
+            "SWATCH BARAT - SWATCH BARAT - VI B"
+        ],
+        "DhanLaksmi": [
+            "Basic Mathematics-4 - M4 - IV B"
+        ],
+        "MAHESH V": [
+            "Basic Mathematics-4 - M4 - IV A"
+        ],
+        "Sunil Nayak": [
+            "HRD - HRD - IV A",
+            "HRD - HRD - IV B",
+            "HRD - HRD - VI A",
+            "HRD - HRD - VI B"
+        ],
+        "": [],
+        "Ambika N": [],
+        "Anisha P Rodrigues": [],
+        "Anitha D Bayar": [],
+        "Ankitha A Nayak": [],
+        "Apoorva D'Souza": [],
+        "Asmitha Poojari": [],
+        "Chandra Naik": [],
+        "D K Sreekantha": [],
+        "Divya Jennifer D'Souza": [],
+        "H R Manjunath Prasad": [],
+        "Humanities": [],
+        "Jyothi Shetty": [],
+        "K R Uday Kumar Reddy": [],
+        "Keerthana B C": [],
+        "Krishna Prasad Rao": [],
+        "Mahesh Kini": [],
+        "Manjunath Prasad": [],
+        "Minu P Abraham": [],
+        "Mohammed Javed": [],
+        "Naveen Chandavarkar": [],
+        "Pallavi K N": [],
+        "Pawan Hegde": [],
+        "Pradeep Kanchan": [],
+        "Pradeep Nazareth": [],
+        "Puneeth R P": [],
+        "Radhakrishna Dodmane": [],
+        "Raghunandan K R": [],
+        "Rajalaxmi Hegde": [],
+        "Rajashree": [],
+        "Raju K": [],
+        "Rama Krishna": [],
+        "Ramesha Shettigar": [],
+        "Ranjan Kumar H S": [],
+        "Ravi B": [],
+        "Roshan Fernandes": [],
+        "Sampath Kini": [],
+        "Sandeep Hegde": [],
+        "Sannidhan M S": [],
+        "Sarika Hegde": [],
+        "Savitha Shetty": [],
+        "Shabari Shedthi B": [],
+        "Sharada Uday Shenoy": [],
+        "Shashank Shetty": [],
+        "Shashirekha B Rai": [],
+        "Shilpa M K": [],
+        "Smitha G V": [],
+        "Sowmya A": [],
+        "Sudeepa K B": [],
+        "Sunil Kumar Aithal": [],
+        "Swathi Pai M": [],
+        "Uday Kumar Shenoy": [],
+        "Venugopala P S": [],
+        "Vijay Murari T": []
+    },
+    {
+        "VI": {
+            "A": {
+                "1": {
+                    "1": "CG | SS&OS LAB",
+                    "2": "CG | SS&OS LAB",
+                    "4": "-",
+                    "0": "CG | SS&OS LAB",
+                    "6": "MC/PAP"
+                },
+                "3": {
+                    "5": "CG | SS&OS LAB",
+                    "4": "-",
+                    "0": "HRD",
+                    "1": "HRD",
+                    "6": "CG | SS&OS LAB",
+                    "7": "CG | SS&OS LAB"
+                },
+                "0": {
+                    "4": "-",
+                    "5": "MC/PAP"
+                },
+                "2": {
+                    "4": "-",
+                    "3": "SWATCH BARAT",
+                    "0": "MC/PAP"
+                },
+                "4": {
+                    "4": "-",
+                    "3": "MC/PAP"
+                },
+                "5": {
+                    "4": "-",
+                    "3": "MC/PAP"
+                }
+            },
+            "B": {
+                "0": {
+                    "5": "MC/PAP",
+                    "4": "-"
+                },
+                "1": {
+                    "4": "-",
+                    "2": "HRD",
+                    "3": "HRD",
+                    "6": "MC/PAP"
+                },
+                "2": {
+                    "4": "-",
+                    "3": "SWATCH BARAT",
+                    "0": "MC/PAP",
+                    "1": "CG | SS&OS LAB",
+                    "2": "CG | SS&OS LAB"
+                },
+                "3": {
+                    "4": "-",
+                    "6": "PAP",
+                    "7": "PAP"
+                },
+                "4": {
+                    "5": "CG | SS&OS LAB",
+                    "7": "CG | SS&OS LAB",
+                    "4": "-",
+                    "6": "CG | SS&OS LAB",
+                    "3": "MC/PAP"
+                },
+                "5": {
+                    "4": "-",
+                    "3": "MC/PAP"
+                }
+            }
+        },
+        "VIII": {
+            "A": {
+                "0": {
+                    "4": "-",
+                    "6": "CGC/ST",
+                    "7": "CGC/ST",
+                    "0": "NMS/INS",
+                    "1": "NMS/INS"
+                },
+                "1": {
+                    "4": "-",
+                    "2": "CGC/ST",
+                    "5": "NMS/INS"
+                },
+                "2": {
+                    "4": "-",
+                    "0": "CGC/ST",
+                    "1": "CGC/ST",
+                    "3": "-",
+                    "6": "NMS/INS",
+                    "7": "NMS/INS"
+                },
+                "3": {
+                    "4": "-",
+                    "0": "PS",
+                    "1": "PS",
+                    "2": "PS",
+                    "3": "PS",
+                    "5": "PS",
+                    "6": "PS",
+                    "7": "PS"
+                },
+                "4": {
+                    "4": "-",
+                    "0": "PS",
+                    "1": "PS",
+                    "2": "PS",
+                    "3": "PS",
+                    "5": "TS",
+                    "6": "TS",
+                    "7": "TS"
+                },
+                "5": {
+                    "4": "-",
+                    "0": "TS",
+                    "1": "TS",
+                    "2": "TS",
+                    "3": "TS"
+                }
+            },
+            "B": {
+                "0": {
+                    "4": "-",
+                    "6": "CGC/ST",
+                    "7": "CGC/ST",
+                    "0": "NMS/INS",
+                    "1": "NMS/INS"
+                },
+                "1": {
+                    "4": "-",
+                    "2": "CGC/ST",
+                    "5": "NMS/INS"
+                },
+                "2": {
+                    "4": "-",
+                    "0": "CGC/ST",
+                    "1": "CGC/ST",
+                    "6": "NMS/INS",
+                    "7": "NMS/INS"
+                },
+                "3": {
+                    "4": "-",
+                    "0": "PS",
+                    "1": "PS",
+                    "2": "PS",
+                    "3": "PS",
+                    "5": "PS",
+                    "6": "PS",
+                    "7": "PS"
+                },
+                "4": {
+                    "4": "-",
+                    "5": "TS",
+                    "7": "TS",
+                    "6": "TS",
+                    "0": "PS",
+                    "1": "PS",
+                    "2": "PS",
+                    "3": "PS"
+                },
+                "5": {
+                    "4": "-",
+                    "0": "TS",
+                    "1": "TS",
+                    "2": "TS",
+                    "3": "TS"
+                }
+            }
+        },
+        "IV": {
+            "A": {
+                "1": {
+                    "4": "-",
+                    "7": "HRD",
+                    "6": "HRD"
+                },
+                "2": {
+                    "4": "-",
+                    "3": "SWATCH BARAT",
+                    "0": "MP|DAA LAB",
+                    "1": "MP|DAA LAB",
+                    "2": "MP|DAA LAB"
+                },
+                "4": {
+                    "1": "MP|DAA LAB",
+                    "2": "MP|DAA LAB",
+                    "3": "MP|DAA LAB",
+                    "4": "-"
+                },
+                "5": {
+                    "4": "-"
+                },
+                "3": {
+                    "4": "-"
+                },
+                "0": {
+                    "4": "-"
+                }
+            },
+            "B": {
+                "0": {
+                    "5": "MP|DAA LAB",
+                    "6": "MP|DAA LAB",
+                    "7": "MP|DAA LAB",
+                    "4": "-"
+                },
+                "1": {
+                    "4": "-"
+                },
+                "2": {
+                    "4": "-",
+                    "3": "SWATCH BARAT"
+                },
+                "3": {
+                    "4": "-",
+                    "0": "MP|DAA LAB",
+                    "1": "MP|DAA LAB",
+                    "2": "MP|DAA LAB",
+                    "7": "HRD",
+                    "6": "HRD"
+                },
+                "4": {
+                    "4": "-"
+                },
+                "5": {
+                    "4": "-"
+                }
+            }
+        }
+    },
+    {},
+    {
+        "III": {},
+        "IV": {},
+        "V": {},
+        "VI": {
+            "Elective 1": [
+                "subject('MC', 'MC', 0, False, '8')",
+                "subject('PAP', 'PAP', 0, False, '9')"
+            ],
+            "Elective 2": [
+                "subject('MC', 'MC', 0, False, '8')",
+                "subject('PAP', 'PAP', 0, False, '9')"
+            ]
+        },
+        "VII": {},
+        "VIII": {
+            "Elective 1": [
+                "subject('CGC', 'CGC', 0, False, '16')",
+                "subject('ST', 'ST', 0, False, '17')"
+            ],
+            "Elective 2": [
+                "subject('NMS', 'NMS', 0, False, '18')",
+                "subject('INS', 'INS', 0, False, '19')"
+            ],
+            "Elective 3": [
+                "subject('CGC', 'CGC', 0, False, '16')",
+                "subject('ST', 'ST', 0, False, '17')"
+            ],
+            "Elective 4": [
+                "subject('NMS', 'NMS', 0, False, '18')",
+                "subject('INS', 'INS', 0, False, '19')"
+            ]
+        }
+    }
+]
